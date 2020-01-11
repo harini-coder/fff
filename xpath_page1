@@ -1,0 +1,10 @@
+baseurl = https://www.actitime.com/;
+Features=//a[.='Features'];
+Simple Time Tracking=//a[.='Simple Time Tracking'];
+Work Scope Management=//a[.='Work Scope Management'];
+Reports and Data Analysis= (//a[.='Reports and Data Analysis'])[1];
+Reports and Data Analysis= (//a[.='Reports and Data Analysis'])[2];
+Leave Time Management=//a[.='Leave Time Management'];
+Data for Accounting=//a[.='Data for Accounting'];
+Team Management=//a[.='Team Management'];
+Add-Ons=//a[.='Add-Ons'];
